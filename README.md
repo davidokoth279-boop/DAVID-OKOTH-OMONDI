@@ -29,5 +29,5 @@ Solar Energy & Renewable Systems Enthusiast
 - Engineering Notes & Calculations
 
 ## 📫 Contact
-- GitHub: https://github.com/DAVID OKOTH OMONDI
+- GitHub: https://github.com/DAVID-OKOTH-OMONDI
 - Email: davidokoth279@gmail.com
